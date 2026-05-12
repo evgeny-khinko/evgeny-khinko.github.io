@@ -9,11 +9,11 @@ profile:
   image: avatar.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>123 Wichernstraße, 5</p>
-    <p>Your Bielefeld, Germany</p>
+    <p>Wichernstraße, 5</p>
+    <p>33609, Bielefeld, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
